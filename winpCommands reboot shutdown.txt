@@ -1,0 +1,2 @@
+wpeutil shutdown
+wpeutil reboot
